@@ -1,0 +1,41 @@
+header {
+    background-color: #FFFBF0;
+}
+
+.text-color-orange {
+    color: #FABE4C;
+}
+
+.text-color-black {
+    color: #363958;
+}
+
+.btn-color {
+    color: white;
+    background-image: linear-gradient(#A4BC46, #85A019)
+}
+
+.img-bg {
+    background-color: #f1f1f1;
+    padding: 16px 32px;
+    border-radius: 24px;
+}
+
+.card-thumbnail {
+    padding: 16px;
+}
+
+.men-jacket {
+    margin: 100px 0px;
+}
+
+.space-about {
+    margin: 120px 0px;
+}
+
+/*--- media queries ---*/
+@media only screen and (max-width: 768px) {
+    .text-about {
+        text-align: center;
+    }
+}
